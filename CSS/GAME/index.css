@@ -1,0 +1,12 @@
+.button_Div{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: 3% 3% 3%;
+}
+
+.button_Div > input{
+    border: 2px solid rgb(206, 84, 84);
+    background-color:white;
+} 
+
